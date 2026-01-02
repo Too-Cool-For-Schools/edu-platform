@@ -10,4 +10,5 @@ nav:
   - Courses:
       - Python for Ops: 
           - Module 01: courses/python-for-ops/module-01/lesson.md
-      - Grade 7 Physics: 
+      - Grade 7 Physics:
+        - Lesson 1: C:\Users\Dell\Documents\edu-platform\docs\courses\Grade 7 Physics (MPA students)\something.md 
