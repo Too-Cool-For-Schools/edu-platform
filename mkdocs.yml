@@ -8,4 +8,5 @@ nav:
   - Roadmap: roadmap.md
   - Rules: rules.md
   - Courses:
-      - Python for Ops: courses/python-for-ops/index.md
+      - Python for Ops: 
+          - Module 01: courses/python-for-ops/module-01/lesson.md
