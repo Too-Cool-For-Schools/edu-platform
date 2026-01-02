@@ -1,0 +1,11 @@
+site_name: Edu_Platform
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Roadmap: roadmap.md
+  - Rules: rules.md
+  - Courses:
+      - Python for Ops: courses/python-for-ops/index.md
