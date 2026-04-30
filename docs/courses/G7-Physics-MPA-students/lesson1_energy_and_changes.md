@@ -1,8 +1,7 @@
 <div align="center">
-
 <img src="tp.png" alt="Theme Park" width="600">
-
 </div>
+
 
 # Energy in a Theme Park
 
