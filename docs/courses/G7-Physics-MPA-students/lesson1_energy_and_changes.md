@@ -1,5 +1,7 @@
 <div align="center">
-![Theme Park](tp.png)
+
+![Theme Park](tp.PNG)
+
 </div>
 
 # Energy in a Theme Park
