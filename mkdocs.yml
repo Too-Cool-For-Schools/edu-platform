@@ -8,8 +8,8 @@ nav:
   - Roadmap: roadmap.md
   - Rules: rules.md
   - Courses:
-      - Python for Ops: 
-          - Module 01: courses/python-for-ops/module-01/lesson.md
-      - Grade 7 Physics:
-        - Lesson 1 Energy And Changes: courses/G7-Physics-MPA-	students/lesson1_energy_and_changes.md
-        - Lesson 2: courses/G7-Physics-MPA-students/something.md
+    - Python for Ops:
+      - Module 01: courses/python-for-ops/module-01/lesson.md
+    - Grade 7 Physics:
+      - Lesson 1 Energy And Changes: courses/G7-Physics-MPA-students/lesson1_energy_and_changes.md
+      - Lesson 2: courses/G7-Physics-MPA-students/something.md
