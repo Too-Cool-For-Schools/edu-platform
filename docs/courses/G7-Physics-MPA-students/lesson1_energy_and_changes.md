@@ -1,6 +1,6 @@
 <div align="center">
 
-![Theme Park](tp.png)
+<img src="tp.png" alt="Theme Park" width="600">
 
 </div>
 
