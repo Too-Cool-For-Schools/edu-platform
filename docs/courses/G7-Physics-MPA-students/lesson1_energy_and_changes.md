@@ -1,6 +1,6 @@
 <div align="center">
 
-![Theme Park](tp.PNG)
+![Theme Park](tp.png)
 
 </div>
 
