@@ -11,9 +11,9 @@ nav:
     - Python for Ops:
       - Module 01: courses/python-for-ops/module-01/lesson.md
     - Grade 7 Physics:
-      - Lesson 1 Energy And Changes: courses/G7-Physics-MPA-students/lesson1_energy_and_changes.md
-      - Lesson 2a b How Do Our Bodies Use Energy?: courses/G7-Physics-MPA-students/Lesson2-energy-from-food.md
-      - Lesson 2c Energy From Food: courses/G7-Physics-MPA-students/Lesson_2_C_Energy_Requirement_in_Diet.md
+      - Lesson 1 Energy And Changes: courses/G7-Physics-MPA-students/lesson1/lesson1_energy_and_changes.md
+      - Lesson 2a b How Do Our Bodies Use Energy?: courses/G7-Physics-MPA-students/lesson2/Lesson2-energy-from-food.md
+      - Lesson 2c Energy From Food: courses/G7-Physics-MPA-students/lesson2/Lesson_2_C_Energy_Requirement_in_Diet.md
     - Grade 8 Physics:
       - Lesson 1 State-Of-Matter: courses/G8-Physics_MPA_students/lesson1-state-of-matter.md
       - Lesson 2 Particle-Model: courses/G8-Physics_MPA_students/lesson2-Particle-Model-Expansion-Contraction-Density.md
